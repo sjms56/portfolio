@@ -1,0 +1,65 @@
+p{
+		font-family: 'Courier New', monospace;
+		text-align: center;
+}
+
+
+
+
+header{
+	float: left;
+	margin: 10px;
+}
+nav li {
+	float: right;
+	width: 100px;
+	height: 40px;
+	border: 2px solid white;
+ 	text-align: center;
+	line-height: auto;
+	margin: 10px;
+}
+
+
+nav ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+nav li a {
+	display: ruby;
+	text-decoration: none;
+	background-color: white;
+	color: black;
+
+}
+
+
+
+.base{
+	text-align: center;
+}
+
+.Image{
+	width: 100%;
+	height: 100%;
+	float: right top;
+	text-align: right;
+	padding: 0;
+	margin: -100px -40px;
+}
+
+
+
+footer{
+	background-color: lightgrey;
+	padding: auto;
+	text-align: right;
+}
+
+.Profil{
+	width: 10%;
+	height: 5%;
+
+}
